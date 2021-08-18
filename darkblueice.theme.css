@@ -1,6 +1,6 @@
 /**
  * @name DarkBlueIce
- * @description A Beautiful theme for betterdiscord  with Dark blue and ice colors distributed in a harmonic way. 
+ * @description A Beautiful theme for  with Dark blue and ice colors distributed in a harmonic way. 
  * @author Dedsd
  * @version 1.0.0
  * @website https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord
@@ -36,13 +36,6 @@
 
 .channelTextArea-rNsIhG.channelTextArea-2VhZ6z {
 	background-color: #454E63;
-}
-
-.scroller-1Bvpku.none-2Eo-qx.scrollerBase-289Jih {
-	background-color: #25282F;
-}
-.container-3baos1 {
-	background-color: #25282F;
 }
 
 .headerTop-3vNv-a.headerTopWithCustomStatus-1DHAjX {
@@ -102,5 +95,46 @@
 }
 
 .membersGroup-v9BXpm.container-2ax-kl {
+	background-color: #2a2f3b;
+}
+
+.scrollableContainer-2NUZem.webkit-HjD9Er {
+	background-color: #454E63;
+}
+
+.header-2V-4Sw {
+	background-color: #454E63;
+}
+
+.scroller-1Bvpku.none-2Eo-qx.scrollerBase-289Jih {
+	background-color: #1e262f;
+}
+
+.container-3baos1 {
+	background-color: #1e262f;
+}
+
+.searchBar-6Kv8R2 {
+	background-color: #2a2f3b;
+}
+
+.searchBar-6Kv8R2
+.searchBarComponent-32dTOx{
+    background-color: #1e262f;
+}
+
+.searchBar-3dMhjb {
+	background-color: #1e262f;
+}
+
+.header-2V-4Sw {
+	background-color: #2a2f3b;
+}
+
+.barButtonMain-3K-jeJ.barButtonBase-2uLO1z {
+	background-color: #2a2f3b;
+}
+
+.barButtonAlt-mYL1lj.barButtonBase-2uLO1z {
 	background-color: #2a2f3b;
 }
