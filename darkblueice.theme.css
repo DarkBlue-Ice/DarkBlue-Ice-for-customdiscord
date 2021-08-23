@@ -2,7 +2,7 @@
  * @name DarkBlueIce
  * @description A Beautiful theme for  with Dark blue and ice colors distributed in a harmonic way. 
  * @author Dedsd
- * @version 1.0.0
+ * @version 1.0.2
  * @website https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord
  */
 
@@ -47,11 +47,11 @@
 }
 
 .bodyInnerWrapper-26fQXj {
-	background-color: #191A1D;
+	background-color: #2a2f3b;
 }
 
 .footer-3UKYOU {
-	background-color: #191A1D;
+	background-color: #2a2f3b;
 }
 
 .anchor-3Z-8Bb.anchorUnderlineOnHover-2ESHQB {
@@ -136,5 +136,279 @@
 }
 
 .barButtonAlt-mYL1lj.barButtonBase-2uLO1z {
+	background-color: #2a2f3b;
+}
+
+.resultsGroup-r_nuzN {
+	background-color: #2a2f3b;
+}
+
+.container-3iAQ-0 {
+	background-color: #2a2f3b;
+}
+
+.channelHeader-3Gd2xq {
+	background-color: #2a2f3b;
+}
+
+.messageContainer-gbhlwo {
+	background-color: #39404d;
+}
+
+.header-2-Imhb.header-ykumBX {
+	background-color: #1e262f;
+}
+
+.messagesPopout-24nkyi.scroller-2UmRce.thin-1ybCId.scrollerBase-289Jih {
+	background-color: #2a2f3b;
+}
+
+.header-ykumBX {
+	background-color: #1e262f;
+}
+
+.messageGroupCozy-2iY6cT.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica {
+	background-color: #39404d;
+}
+
+.messagesPopout-24nkyi.thin-1ybCId.scrollerBase-289Jih {
+	background-color: #2a2f3b;
+}
+
+.list-wek7hJ.activeThreadsList-3f7l7U.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
+	background-color: #2a2f3b;
+}
+
+.container-2I9Hud {
+	background-color: #39404d;
+}
+
+.header-1VS4tm {
+	background-color: #1e262f;
+}
+
+.toolbar-1t6TWx {
+	background-color: #2a2f3b;
+}
+
+.theme-dark .option-96V44q:after, .theme-dark .option-96V44q.selected-rZcOL-:after {
+	background: none !important;
+  }
+
+.scroller-3GIiMh.thin-1ybCId.scrollerBase-289Jih {
+	background-color: #2a2f3b;
+}
+.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica {
+	background-color: #39404d;
+}
+
+.searchHeader-2XoQg7 {
+	background-color: #1e262f;
+}
+
+.theme-dark .children-19S4PO:after {
+    background: -webkit-gradient(linear,left top,right top,from(rgba(54,57,63,0)),to(var(--background-primary))): !important;
+    background: linear-gradient(90deg,rgba(54,57,63,0) 0,var(--background-primary)): !important;
+}
+.message-1Ng5AR {
+	background-color: #39404d;
+}
+
+.searchResultGroup-1DphGG {
+	background-color: #2a2f3b;
+}
+
+.colorHeaderPrimary-26Jzh-size16-1P40sf.channelName-1JRO3C {
+	color: #454E63;
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.header-1TKi98.headerContainer-3N-yWX {
+	background-color: #2a2f3b;
+}
+
+.content-1LAB8Z.thin-1ybCId.scrollerBase-289Jih {
+	background-color: #2a2f3b;
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp {
+	background-color: #2a2f3b;
+}
+
+.inputDefault-_djjkz.input-cIJ7To.input-1GLP_D {
+	background-color: #39404d;
+}
+
+.select-2fjwPw.lookFilled-22uAsw {
+	background-color: #39404d;
+}
+
+.body-3HBlXn.thin-1ybCId.scrollerBase-289Jih {
+	background-color: #2a2f3b;
+}
+
+.headerTop-3vNv-a {
+	background-color: #1e262f;
+}
+
+.role-2irmRk.flex-1O1GKY.alignCenter-1dQNNs {
+	background-color: #1e262f;
+}
+
+.textarea-2r0oV8.inputDefault-_djjkz.input-cIJ7To.scrollbarGhostHairline-1mSOM1.scrollbar-3dvm_9 {
+	background-color: #1e262f;
+	color: #C3D6F9;
+}
+
+.inputDefault-_djjkz.input-cIJ7To.input-2_SIlA {
+	background-color: #1e262f;
+}
+
+.topSection-y3p-_D {
+	background-color: #1e262f;
+}
+
+.nameTagNoCustomStatus-3IWmZC.nameTag-ECvD8P.nameTag-m8r81H {
+	background-color: #1e262f;
+}
+
+.infoScroller-1Qu30O.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
+	background-color: #2a2f3b;
+}
+
+.listScroller-3GmIYj.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
+	background-color: #1e262f;
+}
+
+.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica.hasReply-34In-r {
+	background-image: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
+}
+
+.sprite-2iCowe {
+	background-image: url(https://cdn.discordapp.com/attachments/774302890142597160/879378925967523870/7e5013a9afc1404b0b89d99aaec0b398_but_blue.png);
+	filter: grayscale(0) !important;
+}
+
+.mention.wrapper-3WhCwL.mention.interactive {
+	background-image: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
+}
+
+.inspector-S2gM3e.inspector-3LQtX9 {
+	background-color: #1e262f;
+}
+
+.scroller-3gAZLs.list-donH_Z.none-2Eo-qx.scrollerBase-289Jih {
+	background-color: #1e262f;
+}
+
+.userInfo-iCloHO {
+	background-color: #1e262f;
+}
+
+.accountProfileCard-1XCH88 {
+	background-color: #1e262f;
+}
+
+.background-1QDuV2 {
+	background-color: #2a2f3b;
+}
+
+.fieldList-21DyL8 {
+	background-color: #2a2f3b;
+}
+
+.container-UC8Ug1 {
+	background-color: #39404D;
+}
+
+.colorStandard-2KCXvj.size16-1P40sf.text-1FOLJS {
+	color: #C3D6F9;
+}
+
+.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.header-1TKi98.header-3msK0M {
+	background-color: #1e262f;
+}
+
+.container-1CE3eW {
+	background-color: #1e262f;
+}
+
+.title-3w8xhj.base-1x0h_U.size24-RIRrxO {
+	color: #C3D6F9;
+}
+
+.close-hZ94c6.closeButton-9dkb_x.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN {
+	background-color: #C3D6F9;
+}
+
+.footerTitle-2CYZch.base-1x0h_U.size20-17Iy80 {
+	color: #C3D6F9;
+}
+
+.footerButton-ayFTfX.button-38aScr.lookFilled-1Gx00P.colorGrey-2DXtkV.sizeMedium-1AC_Sl.grow-q77ONN {
+	background-image: linear-gradient(rgba(195, 214, 249, 0.2), rgba(195, 214, 249, 0.2));
+}
+
+.close-hZ94c6.closeButton-_onk93.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN {
+	background-color: #C3D6F9;
+	padding: 1px;
+}
+
+.contents-18-Yxp {
+	color: #C3D6F9;
+}
+
+.colorHeaderSecondary-3Sp3Ft.size14-e6ZScH.skip-2o6MGG {
+	color: #C3D6F9;
+}
+
+.title-LqAd9K.base-1x0h_U.size24-RIRrxO {
+	color: #C3D6F9;
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyBetween-2tTqYu.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp {
+	background-color: #2A2F3B;
+}
+
+.title-Z_XiOC.base-1x0h_U.size24-RIRrxO {
+	color: #C3D6F9;
+}
+
+.inputDefault-_djjkz.input-cIJ7To {
+	background-color: #454E63;
+}
+
+.backButton-iA7KIs.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.sizeMin-1mJd1x.grow-q77ONN {
+	background-image: linear-gradient(rgba(195, 214, 249, 0.5), rgba(195, 214, 249, 0.5));
+}
+
+.close-hZ94c6.closeButton-26zew5.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN {
+	background-image: linear-gradient(rgba(195, 214, 249, 0.5), rgba(195, 214, 249, 0.5));
+}
+
+.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.sizeMin-1mJd1x.grow-q77ONN {
+	background-image: linear-gradient(rgba(195, 214, 249, 0.5), rgba(195, 214, 249, 0.5));
+}
+
+.attachButtonPlus-jWVFah {
+	background-image: linear-gradient(rgba(195, 214, 249, 0.5), rgba(195, 214, 249, 0.5));
+}
+
+.scroller-tlc3kG.thin-1ybCId.scrollerBase-289Jih {
+	background-color: #2a2f3b;
+}
+
+.messages-3G3erD {
+	background-color: #39404D;
+}
+
+.container-3u944p {
+	background-color: #1e262f;
+}
+
+.scrollbarGhostHairline-1mSOM1.scrollbar-3dvm_9.codeView-1JPDeA.hljs.css {
+	background-color: #2a2f3b;
+}
+
+.colorHeaderSecondary-3Sp3Ft.size14-e6ZScH.footer-2yA7Ep {
 	background-color: #2a2f3b;
 }

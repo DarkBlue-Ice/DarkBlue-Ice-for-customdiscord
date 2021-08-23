@@ -15,6 +15,10 @@ C:\Users\USERNAME\AppData\Roaming\BetterDiscord\themes
 ```
 /home/.config/BetterDiscord/themes
 ```
+* On macOS:
+```
+/Users/(YourUser)/Library/Preferences/BetterDiscord/themes
+```
 
 ---
 
