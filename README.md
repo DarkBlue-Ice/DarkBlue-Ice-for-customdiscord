@@ -1,5 +1,5 @@
 ## DarkBlue Ice for betterdiscord
-![example](https://cdn.discordapp.com/attachments/774302890142597160/877323048041189406/unknown.png)
+![example](images/example.png)
 ### A Beautiful theme for betterdiscord  with Dark blue and ice colors distributed in a harmonic way.
 
 ---
