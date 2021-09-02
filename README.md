@@ -1,11 +1,11 @@
-## DarkBlue Ice for betterdiscord
+## DarkBlue Ice for customdiscord
 ![example](images/example.png)
-### A Beautiful theme for betterdiscord  with Dark blue and ice colors distributed in a harmonic way.
+### A Beautiful theme for betterdiscord and powercord with Dark blue and ice colors distributed in a harmonic way.
 
 ---
 
-## How to install
-* Download from [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord/releases)
+## How to install on betterdiscord
+* Download from [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord/releases)
 * Select the `darkblueice.theme.css` file and move to betterdiscord themes folder
 * On Windows:
 ```
@@ -19,6 +19,27 @@ C:\Users\USERNAME\AppData\Roaming\BetterDiscord\themes
 ```
 /Users/(YourUser)/Library/Preferences/BetterDiscord/themes
 ```
+
+---
+
+## How to install on powercord
+
+* Go to:
+* on Windows:
+```
+C:\Users\USERNAME\Documents\powercord\src\Powercord\themes
+```
+* On Linux:
+```
+home/powercord/src/Powercord/themes
+```
+
+* Clone this repository:
+```
+git clone git@github.com:Dedsd/DarkBlue-Ice-for-customdiscord.git
+```
+
+* If you don't have git you can download the zip from [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord/releases) and manually extract and put in the themes folder
 
 ---
 
