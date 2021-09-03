@@ -3,7 +3,7 @@
  * @description A Beautiful theme for  with Dark blue and ice colors distributed in a harmonic way. 
  * @author Dedsd
  * @version 1.0.2
- * @website https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord
+ * @website https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord
  */
 
  .scroller-2LSbBU {
@@ -236,6 +236,7 @@
 
 .inputDefault-_djjkz.input-cIJ7To.input-1GLP_D {
 	background-color: #39404d;
+	border-color: #C3D6F9;
 }
 
 .select-2fjwPw.lookFilled-22uAsw {
@@ -279,7 +280,7 @@
 	background-color: #1e262f;
 }
 
-.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica.hasReply-34In-r {
+.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7{
 	background-image: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
 }
 
@@ -410,5 +411,19 @@
 }
 
 .colorHeaderSecondary-3Sp3Ft.size14-e6ZScH.footer-2yA7Ep {
+	background-color: #686a6d;
+}
+
+.mentioned-xhSam7:before {
+	background-color: #C3D6F9;
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.header-1TKi98 {
 	background-color: #2a2f3b;
+}
+
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/CustomHighlightColor/highlight.css");
+:root {
+	--background-mentioned-hover: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
+	--background-mentioned: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
 }
