@@ -422,7 +422,7 @@
 	background-color: #2a2f3b;
 }
 
-@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/CustomHighlightColor/highlight.css");
+
 :root {
 	--background-mentioned-hover: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
 	--background-mentioned: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
