@@ -31,7 +31,7 @@ C:\Users\USERNAME\Documents\powercord\src\Powercord\themes
 ```
 * On Linux:
 ```
-home/powercord/src/Powercord/themes
+/home/powercord/src/Powercord/themes
 ```
 
 * Clone this repository:
