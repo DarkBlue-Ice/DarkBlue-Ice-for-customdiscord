@@ -1,9 +1,9 @@
 /**
  * @name DarkBlueIce
- * @description A Beautiful theme for  with Dark blue and ice colors distributed in a harmonic way. 
+ * @description A Beautiful theme for betterdiscord and powercord with Dark blue and ice colors distributed in a harmonic way. 
  * @author Dedsd
- * @version 1.0.3
- * @website https://github.com/Dedsd/DarkBlue-Ice-for-betterdiscord
+ * @version 1.0.4
+ * @website https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord
  */
 
  .scroller-2LSbBU {
@@ -71,7 +71,7 @@
 }
 
 .buttonWrapper-1ZmCpA {
-	color: #C3D6F9;
+	color: #94c3d9;
 }
 
 .contentWrapper-SvZHNd {
@@ -285,7 +285,7 @@
 }
 
 .sprite-2iCowe {
-	background-image: url(https://cdn.discordapp.com/attachments/774302890142597160/879378925967523870/7e5013a9afc1404b0b89d99aaec0b398_but_blue.png);
+	background-image: url(https://raw.githubusercontent.com/Dedsd/DarkBlue-Ice-for-customdiscord/master/images/e.png);
 	filter: grayscale(0) !important;
 }
 
@@ -338,7 +338,7 @@
 }
 
 .close-hZ94c6.closeButton-9dkb_x.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN {
-	background-color: #C3D6F9;
+	background-color: #39404d;
 }
 
 .footerTitle-2CYZch.base-1x0h_U.size20-17Iy80 {
@@ -422,8 +422,139 @@
 	background-color: #2a2f3b;
 }
 
+.root-217Brm {
+	background-color: #2a2f3b;
+}
+
+.wrapper-1-Fsb8.header-ywPcAE {
+	background-color: #2a2f3b;
+}
+
+.flexChild-faoVW3 {
+	background-color: #39404D;
+}
+
+.wrapper-1-Fsb8.packHeader-NLJ7S5 {
+	background-color: #2A2F3B;
+}
+
+.input-1Rv96N {
+	background-color: #1e262f;
+}
+
+.tutorial-3w5I9h {
+	background-color: #1e262f;
+}
+
+.scroller-3BxosC {
+	background-color: #1e262f;
+}
+
+.headerTop-3vNv-a.headerTopWithCustomStatus-1DHAjX {
+	background-color: #2A2F3B;
+}
+
+.markup-2BOw-j code {
+	background-color: #1e262f;
+}
+
+.replyBar-1YLQ2F {
+	background-color: #1e262f;
+}
+
+.members-1998pB, .members-1998pB>div {
+	background-color: #2A2F3B;
+}
+
+.grid-1nZz7S {
+	background-color: #2A2F3B;
+}
+
+embed {
+	background-color: #2a2f3b;
+}
+
+.theme-dark .uploadModal-2ifh8j {
+	background-color: #2a2f3b;
+}
+
+.theme-dark .footer-3mqk7D {
+	background-color: #2a2f3b;
+}
+
+.theme-dark .footer-2gL1pp {
+	background-color: #2a2f3b;
+}
+
+.formNotice-2_hHWR.marginBottom40-2vIwTv.cardPrimary-1Hv-to.card-3Qj_Yx {
+	background-color: #2a2f3b;
+}
+
+.flexChild-faoVW3 {
+	background-color: #2a2f3b00;
+}
+
+.channelName-1JRO3C {
+	background-color: #2a2f3b;
+}
+
+.scroller-lynW5A {
+	background-color: #2a2f3b;
+}
+
+.scroller-3gAZLs.list-17lzo8.thin-1ybCId.scrollerBase-289Jih {
+	background-color: #2a2f3b;
+}
+
+.scroller-3gAZLs.list-donH_Z.none-2Eo-qx.scrollerBase-289Jih {
+	background-color: #1e262f;
+}
+
+.wrapper-1-Fsb8.categoryHeader-O1zU94 {
+	background-color: #1e262f;
+}
+
+.childWrapper-anI2G9 {
+	background-color: #39404d;
+}
+
+.circleIconButton-1QV--U {
+	background-color: #39404D;
+}
+
+.scroller-9moviB {
+	background-color: #39404d;
+}
+
+.container-1r6BKw.themed-ANHk51 {
+	background-color: #39404d;
+}
+
+.container-24CyRY {
+	background-color: #39404d;
+}
+
+.scroller-2ZPeAD {
+	background-color: #39404d;
+}
+
+.card-2qZngs {
+	background-color: #2a2f3b;
+}
+
+.itemCard-v9viV7 {
+	background-color: #2a2f3b;
+}
+
+.peopleList-3c4jOR {
+	background-color: #39404d;
+}
+
+
 
 :root {
 	--background-mentioned-hover: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
 	--background-mentioned: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
+	--background-border: #C3D6F9;
+	--text-link: #C3D6F9;
 }
