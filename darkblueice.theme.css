@@ -2,7 +2,7 @@
  * @name DarkBlueIce
  * @description A Beautiful theme for betterdiscord and powercord with Dark blue and ice colors distributed in a harmonic way. 
  * @author Dedsd
- * @version 1.0.4
+ * @version 1.0.5
  * @website https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord
  */
 
@@ -62,8 +62,8 @@
 	background-color: #25282f;
 }
 
-.scroller-RmtA4e.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
-	background-color: #2a2f3b;
+.container-3w7J-x {
+    background-color: #2a2f3b;
 }
 
 .icon-22AiRD {
@@ -227,11 +227,11 @@
 }
 
 .content-1LAB8Z.thin-1ybCId.scrollerBase-289Jih {
-	background-color: #2a2f3b;
+	background-color: #1e262f;
 }
 
 .flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp {
-	background-color: #2a2f3b;
+	background-color: #1e262f;
 }
 
 .inputDefault-_djjkz.input-cIJ7To.input-1GLP_D {
@@ -376,6 +376,7 @@
 
 .inputDefault-_djjkz.input-cIJ7To {
 	background-color: #454E63;
+	color: #C3D6F9;
 }
 
 .backButton-iA7KIs.button-38aScr.lookBlank-3eh9lL.colorBrand-3pXr91.sizeMin-1mJd1x.grow-q77ONN {
@@ -550,11 +551,164 @@ embed {
 	background-color: #39404d;
 }
 
+.inspector-S2gM3e {
+	background-color: #1e262f;
+}
 
+.header-1TKi98 {
+	background-color: #2A2F3B;
+}
+
+.noResults-ZTbl5V, .scroller-hUf6zQ {
+	background-color: #2A2F3B;
+}
+
+.footer-1eyGBa {
+	background-color: #1e262f;
+}
+
+.circleIcon-1-oi1i {
+	color: #C3D6F9;
+}
+
+[d="M12 10.9C11.39 10.9 10.9 11.39 10.9 12C10.9 12.61 11.39 13.1 12 13.1C12.61 13.1 13.1 12.61 13.1 12C13.1 11.39 12.61 10.9 12 10.9ZM12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM14.19 14.19L6 18L9.81 9.81L18 6L14.19 14.19Z"] {
+  color: #C3D6F9;
+}
+
+.circleIconButton-1QV--U:hover {
+	background-color: #454e63;
+}
+
+.colorDefault-2K3EoJ.focused-3afm-j {
+	background-color: #454e63;
+}
+
+.theme-dark .option-96V44q.selected-rZcOL- {
+	background-color: #454e63;
+}
+
+.theme-dark .selected-1Tbx07 {
+	background-color: #454e63;
+}
+
+.colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
+	background-color: #454e63;
+}
+
+.mention.wrapper-3WhCwL.mention.interactive:hover {
+	background-color: #C3D6F9;
+}
+
+.scroller-1d5FgU {
+	background-color: #39404d;
+}
+
+.circleIconButton-1QV--U.selected-1JjBPm {
+	background-color: #454e63;
+}
+
+.homeIcon-FuNwkv {
+	color: #C3D6F9;
+}
+
+.childWrapper-anI2G9:hover {
+	background-color: #454e63;
+}
+
+.reactionInner-15NvIl {
+	border-color: #C3D6F9;
+}
+
+.wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+	background-color: #454e63;
+}
+
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+	background-color: #454e63;
+}
+
+.popoutInfo-pKbpvG {
+	background-color: #1e262f;
+}
+
+.formNotice-2_hHWR.cardPrimary-1Hv-to card-3Qj_Yx {
+	background-color: #2A2F3B;
+}
+
+.container-1pMiXm code {
+    background-color: var(--background-primary);
+    border: 1px solid var(--background-tertiary);
+}
+
+.theme-dark .container-1pMiXm code {
+    background-color: var(--background-tertiary);
+}
+
+.message-2qnXI6 .wrapper-35wsBm {
+    background-color: var(--background-secondary);
+}
+
+.cozy-3raOZG.message-2qnXI6.selected-2P5D_Z .messageContent-2qWWxC:not(.repliedTextContent-1R3vnK),
+.cozy-3raOZG.message-2qnXI6.selected-2P5D_Z .embedFull-2tM8--,
+.cozy-3raOZG.message-2qnXI6.selected-2P5D_Z .container-1pMiXm > div {
+    background-color: var(--background-tertiary) !important;
+}
+
+.cozy-3raOZG.message-2qnXI6.mentioned-xhSam7 .messageContent-2qWWxC:not(.repliedTextContent-1R3vnK) {
+    background-color: var(--background-mentioned) !important;
+}
+
+.theme-dark .cozy-3raOZG.message-2qnXI6.selected-2P5D_Z .messageContent-2qWWxC:not(.repliedTextContent-1R3vnK),
+.theme-dark .cozy-3raOZG.message-2qnXI6.selected-2P5D_Z .embedFull-2tM8--,
+.theme-dark .cozy-3raOZG.message-2qnXI6.selected-2P5D_Z .container-1pMiXm > div {
+    background-color: var(--background-secondary-alt) !important;
+}
+
+.cozy-3raOZG .messageContent-2qWWxC:not(.repliedTextContent-1R3vnK) pre code {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .cozy-3raOZG .messageContent-2qWWxC:not(.repliedTextContent-1R3vnK) pre code {
+    background-color: var(--background-tertiary);
+}
+
+.cozy-3raOZG .repliedMessage-VokQwo ~ .contents-2mQqc9 > .messageContent-2qWWxC:first-of-type::before {
+    background-color: var(--background-secondary-alt);
+}
+
+.item-2hkk8m {
+	background-color: #C3D6F9;
+}
+
+.premiumTabItem-1QTfBr[aria-selected=true] {
+    background-color: var(--text-link) !important;
+    color: var(--background-secondary) !important;
+}
+
+.premiumTabItem-1QTfBr[aria-selected=true] .icon-Zc-uZZ {
+	fill: #2A2F3B !important;
+}
+
+.categoryItem-1QIroW.selectedCategoryItem-FHKU_o .itemInner-gPkiWb {
+	background-color: var(--background-primary);
+}
+
+.categoryItem-1QIroW.selectedCategoryItem-FHKU_o {
+	color: #C3D6F9;
+}
+
+.avatar-3uk_u9 {
+	color: #C3D6F9;
+}
 
 :root {
 	--background-mentioned-hover: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
 	--background-mentioned: linear-gradient(rgba(195, 214, 249, 0.1), rgba(195, 214, 249, 0.1));
 	--background-border: #C3D6F9;
 	--text-link: #C3D6F9;
+	--background-message-hover: transparent;
+    --background-primary: #39404D !important;
+    --background-secondary: #2A2F3B !important;
+    --background-secondary-alt: #454e63 !important;
+    --background-tertiary: #1e262f !important;
 }
