@@ -1,6 +1,6 @@
 ## DarkBlue Ice for customdiscord
 ![example](images/example.png)
-### A Beautiful theme for betterdiscord and powercord with Dark blue and ice colors distributed in a harmonic way.
+### A Beautiful theme for betterdiscord and powercord with dark blue and ice colors distributed in a harmonic way.
 
 ---
 
