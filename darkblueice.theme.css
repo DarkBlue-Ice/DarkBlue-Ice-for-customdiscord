@@ -2,7 +2,7 @@
  * @name DarkBlueIce
  * @description A Beautiful theme for betterdiscord and powercord with Dark blue and ice colors distributed in a harmonic way. 
  * @author Dedsd
- * @version 1.0.5
+ * @version 1.0.6
  * @website https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord
  */
 
@@ -699,6 +699,14 @@ embed {
 
 .avatar-3uk_u9 {
 	color: #C3D6F9;
+}
+
+.circleIcon-3EEvbO {
+	color: #C3D6F9;
+}
+
+.circleIconButton-1XqULR.selected-2jcQaY {
+	background-color: #454e63;
 }
 
 :root {
