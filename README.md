@@ -1,6 +1,6 @@
 ## DarkBlue Ice for customdiscord
 ![example](images/example.png)
-### A Beautiful theme for betterdiscord and powercord with dark blue and ice colors distributed in a harmonic way.
+### A Beautiful theme for betterdiscord, powercord and aliucord with dark blue and ice colors distributed in a harmonic way.
 
 ---
 
@@ -40,6 +40,14 @@ git clone git@github.com:Dedsd/DarkBlue-Ice-for-customdiscord.git
 ```
 
 * If you don't have git you can download the zip from [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord/releases) and manually extract and put in the themes folder
+
+---
+
+## How to install on aliucord
+
+* Download from [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord/releases)
+* Select the `DarkBlueIce.json` and move to `Aliucord/Themes`
+* With a plugin like themer activate the theme
 
 ---
 

@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "author": "Deds",
+        "name": "DarkBlue Ice",
+        "version": "1.0.0",
+        "license": "MIT"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -13025203,
+        "background_secondary": -14012613,
+        "input_background": -12235165,
+        "mention_highlight": 398710521,
+        "statusbar": -13025203,
+        "accent": -11181961
+    },
+    "colors": {
+        "link": -3942663,
+        "primary_dark_300": -3942663,
+        "brand_new_530": -3942663
+    },
+    "drawable_tints": {}
+}
