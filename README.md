@@ -46,7 +46,7 @@ git clone git@github.com:Dedsd/DarkBlue-Ice-for-customdiscord.git
 ## How to install on aliucord
 
 * Download from [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord/releases)
-* Select the `DarkBlueIce.json` and move to `Aliucord/Themes`
+* Select the `DarkBlue.Ice.json` and move to `Aliucord/Themes`
 * With a plugin like themer activate the theme
 
 ---
