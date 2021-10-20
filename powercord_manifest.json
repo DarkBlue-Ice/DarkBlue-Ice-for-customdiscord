@@ -1,7 +1,7 @@
 {
     "name": "DarkBlueIce",
     "description": "A Beautiful theme for betterdiscord, powercord and aliucord with Dark blue and ice colors distributed in a harmonic way.",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "license": "MIT",
     "theme": "darkblueice.theme.css",
     "author": "Deds"
