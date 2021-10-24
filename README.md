@@ -36,7 +36,7 @@ C:\Users\USERNAME\Documents\powercord\src\Powercord\themes
 
 * Clone this repository:
 ```
-git clone git@github.com:Dedsd/DarkBlue-Ice-for-customdiscord.git
+git clone git@github.com:DarkBlue-Ice/DarkBlue-Ice-for-customdiscord.git
 ```
 
 * If you don't have git you can download the zip from [github releases](https://github.com/Dedsd/DarkBlue-Ice-for-customdiscord/releases) and manually extract and put in the themes folder
