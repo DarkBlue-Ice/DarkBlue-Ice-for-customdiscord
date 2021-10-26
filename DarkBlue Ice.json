@@ -18,7 +18,10 @@
     "colors": {
         "link": -3942663,
         "primary_dark_300": -3942663,
-        "brand_new_530": -3942663
+        "brand_new_530": -3942663,
+        "uikit_btn_bg_color_selector_green": -3942663
     },
-    "drawable_tints": {}
+    "drawable_tints": {
+        "ic_status_online_16dp": -12868261
+    }
 }
